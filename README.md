@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah Azmat</h1>
 <br>
 
-<h3 align="center">A dedicated Computer Science student from Pakistan, passionate about coding and learning new technologies.</h3>
+<h3 align="center">A dedicated CS student from Pakistan, passionate about coding and learning new technologies.</h3>
 
 <br>
 
